@@ -9,9 +9,9 @@ import org.apache.shiro.realm.Realm;
  * @create 2018/4/13
  */
 @Slf4j
-public class MyRealm1 implements Realm {
+public class MyRealm3 implements Realm {
     public String getName() {
-        return "myRealm1";
+        return "myRealm3";
     }
 
     public boolean supports(AuthenticationToken authenticationToken) {
@@ -35,7 +35,8 @@ public class MyRealm1 implements Realm {
             log.info("密码错误");
             throw new IncorrectCredentialsException();
         }
-        //若身份认证成功，返回一个AuthenticationInfo实现
+        //若身份认真成功，返回一个AuthenticationInfo实现
+        username = "zhang@163.com";
         return new SimpleAuthenticationInfo(username,password,getName());
     }
 }
