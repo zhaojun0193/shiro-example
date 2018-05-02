@@ -5,8 +5,8 @@
 ## 博客地址
  #### [《跟我学Shiro》学习笔记 第一章:Shiro简介](https://www.jianshu.com/p/26454a1d9b32)
  #### [《跟我学Shiro》学习笔记 第二章:身份验证](https://www.jianshu.com/p/13c1ca88be8d)
-
-#### [《跟我学Shiro》学习笔记 第三章:授权](https://www.jianshu.com/p/bb54f8cc5372)
+ #### [《跟我学Shiro》学习笔记 第三章:授权](https://www.jianshu.com/p/bb54f8cc5372)
+ #### [《跟我学Shiro》学习笔记 第四章:编码/加密](https://www.jianshu.com/p/b06f3ae4a066)
 
 ----
  [简书](https://www.jianshu.com/u/1b475eed02f9)
