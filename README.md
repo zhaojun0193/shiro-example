@@ -7,9 +7,8 @@
  #### [《跟我学Shiro》学习笔记 第二章:身份验证](https://www.jianshu.com/p/13c1ca88be8d)
  #### [《跟我学Shiro》学习笔记 第三章:授权](https://www.jianshu.com/p/bb54f8cc5372)
  #### [《跟我学Shiro》学习笔记 第四章:编码/加密](https://www.jianshu.com/p/b06f3ae4a066)
-
-#### [《跟我学Shiro》学习笔记 第五章:Realm及相关对象](https://www.jianshu.com/p/85373f9c75a3)
-
+ #### [《跟我学Shiro》学习笔记 第五章:Realm及相关对象](https://www.jianshu.com/p/85373f9c75a3)
+ #### [《跟我学Shiro》学习笔记 第六章:与Web集成](https://www.jianshu.com/p/fc16b8fcb256)
 ----
  [简书](https://www.jianshu.com/u/1b475eed02f9)
  [个人博客](https://zhaojun0193.github.io)
